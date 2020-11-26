@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!--
 <pre>
 
 👋 I am cow-say 🐮 , ricksr's coding partner :😀 😎:
@@ -36,6 +38,7 @@ _______________________________________
                 ||     ||
 
 </pre>
-
+-->
+<img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="300"> 
 
 [![](https://komarev.com/ghpvc/?username=ricksr&color=green)](https://github.com/ricksr)
