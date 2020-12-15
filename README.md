@@ -39,6 +39,6 @@ _______________________________________
 
 </pre>
 -->
-<img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="300"> 
+<!-- <img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="300"> -->
 
 [![](https://komarev.com/ghpvc/?username=ricksr&color=green)](https://github.com/ricksr)
